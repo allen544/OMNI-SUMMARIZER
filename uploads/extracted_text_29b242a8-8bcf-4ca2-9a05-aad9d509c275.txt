@@ -1,0 +1,141 @@
+GitHub Repository with Notes and Code from the eBook Above
+AI and Data Scientist
+Mathematics
+Linear Algebra, Calculus, Mathematical Analysis
+Mathematics for Machine Learning
+Courses
+Di!erential Calculus
+Coursera: Algebra and Di!erential Calculus
+Course
+Statistics
+Statistics, CLT
+Coursera: Introduction to Statistics
+Course
+Hypothesis Testing
+>
+Coursera: Hypothesis Testing
+Course
+Probability and Sampling
+Coursera: Probability and Statistics
+Course
+AB Testing
+Practitioner’s Guide to Statistical Tests
+Article
+Experiment Design Article
+Article
+Increasing Test Sensitivity
+Minimum Detectable E!ect
+Article
+Paper: Improving Test Sensitivity
+Paper
+Paper: Improving Sensitivity (CUPED)
+Paper
+CUPED at Booking.com
+Article
+Doordash: CUPAC
+Article
+Ratio Metrics
+Microsoft: Delta Method in Metric Analytics
+Paper
+Paper: Ratio Metrics
+Paper
+>
+v
+v
+<
+^
+<
+Econometrics
+Pre-requisites of Econometrics
+Fundamentals of econometrics
+Book
+Regressions, time series, ﬁtting distributions
+Intro to Econometrics
+Book
+Coursera: Econometrics
+Course
+Kaggle — Learn Time Series
+Course
+Kaggle — Time Series Basics
+Tutorial
+ARIMA Model for Time Series
+Tutorial
+Time Series Models
+Tutorial
+Forecasting Task with Solution
+OpenSource Project
+Coursera: Linear Regression
+Course
+v
+v
+Coding
+Learn Python Programming Language
+Learn Python - Kaggle
+Course
+Google's Python Class
+Course
+Algorithmic Exercises
+Tutorial + Challenges
+Study Plans - Leetcode
+Challenges
+Algorithms Specialization
+Course
+Data Structures and Algorithms (Python)
+Learn SQL
+SQL Tutorial
+Course
+>
+Exploratory Data Analysis (EDA)
+Data understanding, Data Analysis, Vizualisation
+Exploratory Data Analysis With Python and Pandas
+Course
+Exploratory Data Analysis for Machine Learning
+Course
+Exploratory Data Analysis with Seaborn
+Course
+>
+v
+Machine Learning
+<
+Classic ML (Sup. and Unsup.) Advanced ML (Ensembles, NNs)
+Open Machine Learning Course - OpenDataScience
+Course
+Machine Learning Specialization
+Course
+Pattern Recognition & ML by Christopher m. bishop
+eBook
+v
+Deep Learning
+Fully connected NN, CNN, RNN, LSTM, Transformers, Transfer Learning
+Deep Learning Specialization
+Courses
+Deep Learning Book
+eBook
+Attention is all you need
+Paper
+The Illustrated Transformer
+Article
+v
+>
+<
+^
+MLOps
+Deployment models, CI/CD
+MLOps Specialization
+Courses
+v
+>
+<
+Keep Learning
+Find the detailed version of this roadmap
+along with resources and other roadmaps
+https://roadmap.sh
+This roadmap was
+Careem (an Uber company). Shout out to the creators
+@mohamadtweets
+@BulatShkanov
+and
+created by the AI and DS team at
+Netﬂix: Stratiﬁcation
+Paper
+CODE RAVAN
